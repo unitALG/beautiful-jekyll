@@ -1,3 +1,10 @@
+---
+layout: page
+title: About ProGrids
+subtitle: Tool to keep everything in line in Unity
+use-site-title: true
+---
+
 # About ProGrids
 
 Grid snapping keeps objects aligned and evenly spaced. This is an important part of just about every level design workflow.
